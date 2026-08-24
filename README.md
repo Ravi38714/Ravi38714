@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi38714&label=Profile%20views&color=0e75b6&style=flat" alt="ravi38714" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi38714" alt="ravi38714" /></a> </p>
-
 - 🔭 I'm currently working on **Data Analysis & Visualization Projects**
 
 - 🌱 I'm currently learning **SQL, Excel, Power BI, Python**
