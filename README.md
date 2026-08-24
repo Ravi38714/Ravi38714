@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ravi38714@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/16HtX5-gQKie2-WB0MWzqBAH6xzJ7QPBR/view?usp=sharing
+- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/16HtX5-gQKie2-WB0MWzqBAH6xzJ7QPBR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
